@@ -1,12 +1,14 @@
-<!-- Static PNG Banner -->
-<p align="center">
-  <img src="https://favpng.com/png_view/computer-web-application-security-computer-security-internet-security-web-hosting-service-png/FH2Thk10" alt="Web Security Banner" width="60%" />
-</p>
 
 <!-- Typing animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed;Web+Application+Security+Enthusiast;Burp+Suite+%7C+CTF+%7C+Labs+Hunter" alt="Typing SVG" />
 </p>
+
+<!-- Static PNG Banner -->
+<p align="center">
+  <img src="im.png" alt="Web Security Banner" width="60%" />
+</p>
+
 
 ---
 
